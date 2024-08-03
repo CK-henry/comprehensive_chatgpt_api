@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/CK-henry/comprehensive_chatgpt_api"><img src="./images/logo.jpg" width="125" height="125" alt="free-chatgpt-api logo"></a>
+  <a href="https://github.com/CK-henry/comprehensive_chatgpt_api"><img src="./image/logo.jpg" width="125" height="125" alt="Dorado-chatgpt-api logo"></a>
 </p>
 
 <div align="center">
 
-# FREE-CHATGPT-API
+# Dorado-CHATGPT-API
 
 通过标准的 OpenAI格式免费使用ChatGPT API
 
