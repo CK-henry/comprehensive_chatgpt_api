@@ -6,7 +6,7 @@
 
 # Dorado-CHATGPT-API
 
-通过标准的 OpenAI格式免费使用ChatGPT API
+通过标准的 OpenAI格式使用ChatGPT API
 
 </div>
 
@@ -20,7 +20,7 @@
 > 
 > 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 >
-
+> 项目应用[《剑鱼Chat》](https://www.doradochat.com/) 无需魔法
 
 ## 项目介绍
 
